@@ -3,6 +3,8 @@ import pygame, sys
 
 pygame.init()
 
-
+# clock=pygame
 while True:
-    pass
+    # clock
+    print("test")
+
